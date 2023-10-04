@@ -1,6 +1,6 @@
 Data augumentation for traffic signal end-to-end ml model
 
-Whenever we are dealing with data we always come across new terms that makes us thirst to learn whatever it is,it maybe a tabular form of data or it maybe the dta that deals with images likewise here I came across a new word called data augumentation.
+Whenever we are dealing with data we always come across new terms that makes us thirst to learn whatever it is,it maybe a tabular form of data or it maybe the data that deals with images likewise here I came across a new word called data augumentation.
 
 Data Augumentation:
      The techniques used to increase the amount of data by adding slightly modified copies of already existing data or newly created synthetic data from existing data.In simple words,adding of new data with the help of existing data.It is mostly quite possible only in image form of dataset.
